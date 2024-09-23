@@ -2,7 +2,7 @@
 # Collaboration Process
 1. Create a branch
     * Naming convention: ticket/username/short-description
-1. Commit often, test frequently
+1. Do work, Make changes, Commit often, Test frequently
 1. Pull Request
     * Fix any issues
 1. Rebase to main
@@ -13,18 +13,18 @@
       * "squash" all the others
     * test again
 1. Merge to main
-  * Should be a fast forward
-    * Repo settings enforce "only FF merges to main" ?
-  * Delete branch
+    * Should be a fast forward
+      * Repo settings enforce "only FF merges to main" ?
+    * Delete branch
 1. Deploy production
-  * Restricted to "Maintainer" ?
+    * Restricted to "Maintainer" ?
 
 # References
 * [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 * [GitHub flow explained](https://scottchacon.com/2011/08/31/github-flow/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTI2MDg4NCwtMTYzNTA2ODAxNywyOT
+eyJoaXN0b3J5IjpbLTk3NzMyMjIwMywtMTYzNTA2ODAxNywyOT
 E0MjcwNzEsNTQzMTE2NzU1LC0zNzk1NDMxOTQsLTIwODg3NDY2
 MTIsLTMzMjQ1NTM2M119
 -->
