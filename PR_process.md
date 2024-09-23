@@ -3,7 +3,6 @@
 1. Create a branch
     * Naming convention: ticket/username/short-description
 1. Commit often, test frequently
-    * IMG
 1. Pull Request
     * Fix any issues
 1. Rebase to main
@@ -25,7 +24,7 @@
 * [GitHub flow explained](https://scottchacon.com/2011/08/31/github-flow/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzUwNjgwMTcsMjkxNDI3MDcxLDU0Mz
-ExNjc1NSwtMzc5NTQzMTk0LC0yMDg4NzQ2NjEyLC0zMzI0NTUz
-NjNdfQ==
+eyJoaXN0b3J5IjpbMTc3OTI2MDg4NCwtMTYzNTA2ODAxNywyOT
+E0MjcwNzEsNTQzMTE2NzU1LC0zNzk1NDMxOTQsLTIwODg3NDY2
+MTIsLTMzMjQ1NTM2M119
 -->
