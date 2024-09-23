@@ -1,11 +1,11 @@
 
 # Collaboration Process
 1. Create a branch
-	* Naming convention: ticket/username/short-description
+    * Naming convention: ticket/username/short-description
 1. Commit often, test frequently
     * IMG
 1. Pull Request
-  * Fix any issues
+    * Fix any issues
 1. Rebase to main
     * `git go main`
     * `git go BRANCH`
@@ -25,7 +25,7 @@
 * [GitHub flow explained](https://scottchacon.com/2011/08/31/github-flow/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2NjIwOTgzLDI5MTQyNzA3MSw1NDMxMT
-Y3NTUsLTM3OTU0MzE5NCwtMjA4ODc0NjYxMiwtMzMyNDU1MzYz
-XX0=
+eyJoaXN0b3J5IjpbLTE2MzUwNjgwMTcsMjkxNDI3MDcxLDU0Mz
+ExNjc1NSwtMzc5NTQzMTk0LC0yMDg4NzQ2NjEyLC0zMzI0NTUz
+NjNdfQ==
 -->
