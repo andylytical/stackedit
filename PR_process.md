@@ -6,6 +6,7 @@
 ## Workflow
 1. Create a branch
     * Naming convention: ticket/username/short-description
+    * `git branch {your/branch/name}`
     * `git commit -u origin {your/branch/name}`
       * where `{your/banch/name}` is the actual name of your branch, without the curly braces
 1. CODE
@@ -56,7 +57,8 @@
 * [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 * [GitHub flow explained](https://scottchacon.com/2011/08/31/github-flow/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5ODM2MzUxLDIwMzg4NDQyMjAsLTk3Nz
-MyMjIwMywtMTYzNTA2ODAxNywyOTE0MjcwNzEsNTQzMTE2NzU1
-LC0zNzk1NDMxOTQsLTIwODg3NDY2MTIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTU1MjQ4NTQ1MywzODk4MzYzNTEsMjAzOD
+g0NDIyMCwtOTc3MzIyMjAzLC0xNjM1MDY4MDE3LDI5MTQyNzA3
+MSw1NDMxMTY3NTUsLTM3OTU0MzE5NCwtMjA4ODc0NjYxMiwtMz
+MyNDU1MzYzXX0=
 -->
