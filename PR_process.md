@@ -5,11 +5,13 @@
 ## Workflow
 1. Create a branch
     * Naming convention: ticket/username/short-description
-2. Do work
+1. Do work
 	1. EDIT
-	2. COMMIT
-	3. PUSH
-	4. TEST
+	   * vim \<file1\>
+	   * vim \<file2\>
+	1. COMMIT
+	1. PUSH
+	1. TEST
 3. Pull Request
     * Fix any issues
 4. Rebase to main
@@ -31,7 +33,7 @@
 * [GitHub flow explained](https://scottchacon.com/2011/08/31/github-flow/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDkxMTUxNCwtOTc3MzIyMjAzLC0xNj
-M1MDY4MDE3LDI5MTQyNzA3MSw1NDMxMTY3NTUsLTM3OTU0MzE5
-NCwtMjA4ODc0NjYxMiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMzQyNTE2MzcyLC05NzczMjIyMDMsLTE2Mz
+UwNjgwMTcsMjkxNDI3MDcxLDU0MzExNjc1NSwtMzc5NTQzMTk0
+LC0yMDg4NzQ2NjEyLC0zMzI0NTUzNjNdfQ==
 -->
