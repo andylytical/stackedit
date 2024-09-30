@@ -32,7 +32,7 @@
    * Create pull request
 1. Review
    * Participate in the review commentary
-   * Fix any issues following the EDIT > COMMIT > PUSH > TEST cycle until all review items are complete and fully tested
+   * For any issues, repeat the EDIT > COMMIT > PUSH > TEST cycle until all review issues are complete and fully tested
 #### MERGE
 1. Rebase
    * `git checkout main`
@@ -56,9 +56,9 @@
 * [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 * [GitHub flow explained](https://scottchacon.com/2011/08/31/github-flow/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzkyNTA1NDEsMTMwNzM0NDU1NiwtMT
-QxMTA4MjkyOCwtNTUyNDg1NDUzLDM4OTgzNjM1MSwyMDM4ODQ0
-MjIwLC05NzczMjIyMDMsLTE2MzUwNjgwMTcsMjkxNDI3MDcxLD
-U0MzExNjc1NSwtMzc5NTQzMTk0LC0yMDg4NzQ2NjEyLC0zMzI0
-NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbNzk2Mzg0NjkxLC0xNTM5MjUwNTQxLDEzMD
+czNDQ1NTYsLTE0MTEwODI5MjgsLTU1MjQ4NTQ1MywzODk4MzYz
+NTEsMjAzODg0NDIyMCwtOTc3MzIyMjAzLC0xNjM1MDY4MDE3LD
+I5MTQyNzA3MSw1NDMxMTY3NTUsLTM3OTU0MzE5NCwtMjA4ODc0
+NjYxMiwtMzMyNDU1MzYzXX0=
 -->
