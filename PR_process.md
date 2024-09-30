@@ -24,7 +24,7 @@
 #### REVIEW
 1. Pull Request
    * Github.com > Project site > Pull requests > New pull request
-   * *base: main* :arrow_left: compare:{your/branch/name} > Create pull request
+   * *base: main* :arrow_left: *compare:{your/branch/name}* > Create pull request
    * Add a title
    * Add a description
    * Assignees > assign yourself (you are responsible to merge this once approved)
@@ -56,9 +56,9 @@
 * [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 * [GitHub flow explained](https://scottchacon.com/2011/08/31/github-flow/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4MzYxNzA1LDEzMDczNDQ1NTYsLTE0MT
-EwODI5MjgsLTU1MjQ4NTQ1MywzODk4MzYzNTEsMjAzODg0NDIy
-MCwtOTc3MzIyMjAzLC0xNjM1MDY4MDE3LDI5MTQyNzA3MSw1ND
-MxMTY3NTUsLTM3OTU0MzE5NCwtMjA4ODc0NjYxMiwtMzMyNDU1
-MzYzXX0=
+eyJoaXN0b3J5IjpbLTE1MzkyNTA1NDEsMTMwNzM0NDU1NiwtMT
+QxMTA4MjkyOCwtNTUyNDg1NDUzLDM4OTgzNjM1MSwyMDM4ODQ0
+MjIwLC05NzczMjIyMDMsLTE2MzUwNjgwMTcsMjkxNDI3MDcxLD
+U0MzExNjc1NSwtMzc5NTQzMTk0LC0yMDg4NzQ2NjEyLC0zMzI0
+NTUzNjNdfQ==
 -->
