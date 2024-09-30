@@ -22,7 +22,7 @@
 	   * Test according to the procedures specific to the project / repo you are working on
 	1. Repeat EDIT > COMMIT > PUSH > TEST cycle until changes are complete and fully tested
 1. REVIEW
-  1. Pull Request
+   1. Pull Request
       * Github.com > Project site > Pull requests > New pull request
       * base: main \<- compare:{your/branch/name} > Create pull request
       * Add a title
@@ -30,36 +30,33 @@
       * Assignees > assign yourself (you are responsible to merge this once approved)
       * (optional) Assign Reviewers
       * Create pull request
-  1. Review
+   1. Review
       * Participate in the review commentary
       * Fix any issues following the EDIT > COMMIT > PUSH > TEST cycle until all review items are complete and fully tested
 1. MERGE
-  1. Rebase
-     * `git checkout main`
-     * `git pull`
-     * `git checkout {your/branch/name}`
-     * `git rebase -i main`
-       * "pick" the 1st commit
-       * "squash" all the others
-     * `git push -f origin {your/branch/name}`
-     * test again
-  1. Merge to main
-     * `git checkout main`
-     * `git pull`
-     * `git merge {your/branch/name}`
-       * (Note: Repo settings will only allow a fast forward merge)
-  1. Delete the branch
-     * `git branch -d {your/branch/name}`
-     * `git push origin :{your/branch/name}`
+   1. Rebase
+      * `git checkout main`
+      * `git pull`
+      * `git checkout {your/branch/name}`
+      * `git rebase -i main`
+        * "pick" the 1st commit
+        * "squash" all the others
+      * `git push -f origin {your/branch/name}`
+      * test again
+   1. Merge to main
+      * `git checkout main`
+      * `git pull`
+      * `git merge {your/branch/name}`
+        * (Note: Repo settings will only allow a fast forward merge)
+   1. Delete the branch
+      * `git branch -d {your/branch/name}`
+      * `git push origin :{your/branch/name}`
 
 # References
 * [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 * [GitHub flow explained](https://scottchacon.com/2011/08/31/github-flow/)
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjIyMzEwMSwyMDM4ODQ0MjIwLC05Nz
-czMjIyMDMsLTE2MzUwNjgwMTcsMjkxNDI3MDcxLDU0MzExNjc1
-NSwtMzc5NTQzMTk0LC0yMDg4NzQ2NjEyLC0zMzI0NTUzNjNdfQ
-==
+eyJoaXN0b3J5IjpbMzg5ODM2MzUxLDIwMzg4NDQyMjAsLTk3Nz
+MyMjIwMywtMTYzNTA2ODAxNywyOTE0MjcwNzEsNTQzMTE2NzU1
+LC0zNzk1NDMxOTQsLTIwODg3NDY2MTIsLTMzMjQ1NTM2M119
 -->
