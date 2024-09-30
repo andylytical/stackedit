@@ -8,6 +8,7 @@
     * `git branch {your/branch/name}`
     * `git commit -u origin {your/branch/name}`
       * where `{your/banch/name}` is the actual name of your branch, without the curly braces
+      * ####
 1. CODE
 	1. Edit
 	   * `vim file1`
@@ -56,9 +57,9 @@
 * [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 * [GitHub flow explained](https://scottchacon.com/2011/08/31/github-flow/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTE2MTA2NTQsMTMwNzM0NDU1NiwtMT
-QxMTA4MjkyOCwtNTUyNDg1NDUzLDM4OTgzNjM1MSwyMDM4ODQ0
-MjIwLC05NzczMjIyMDMsLTE2MzUwNjgwMTcsMjkxNDI3MDcxLD
-U0MzExNjc1NSwtMzc5NTQzMTk0LC0yMDg4NzQ2NjEyLC0zMzI0
-NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTMyNjAxMzUyNiwxMzA3MzQ0NTU2LC0xND
+ExMDgyOTI4LC01NTI0ODU0NTMsMzg5ODM2MzUxLDIwMzg4NDQy
+MjAsLTk3NzMyMjIwMywtMTYzNTA2ODAxNywyOTE0MjcwNzEsNT
+QzMTE2NzU1LC0zNzk1NDMxOTQsLTIwODg3NDY2MTIsLTMzMjQ1
+NTM2M119
 -->
