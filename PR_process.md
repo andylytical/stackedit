@@ -6,7 +6,8 @@
 1. Create a branch
     * Naming convention: ticket/username/short-description
 2. Do work
-	1. EDITvim <file1>
+	1. EDIT
+	   ```vim <file1>
        vim <file2>
 3. Pull Request
     * Fix any issues
@@ -29,7 +30,7 @@
 * [GitHub flow explained](https://scottchacon.com/2011/08/31/github-flow/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjI4NTExLC05NzczMjIyMDMsLTE2Mz
+eyJoaXN0b3J5IjpbNzAwODc0MTY1LC05NzczMjIyMDMsLTE2Mz
 UwNjgwMTcsMjkxNDI3MDcxLDU0MzExNjc1NSwtMzc5NTQzMTk0
 LC0yMDg4NzQ2NjEyLC0zMzI0NTUzNjNdfQ==
 -->
