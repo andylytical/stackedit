@@ -48,7 +48,9 @@
    * `git pull`
    * `git merge {your/branch/name}`
      * (Note: Repo settings will only allow a fast forward merge)
-   
+   * `git tag {tagname}`
+     * where {tagname} follows the tag naming convention for the project you are working on
+   * `git push --tags`
 1. Delete your branch
    * `git branch -d {your/branch/name}`
    * `git push origin :{your/branch/name}`
@@ -57,7 +59,7 @@
 * [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 * [GitHub flow explained](https://scottchacon.com/2011/08/31/github-flow/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDEwNjQ5OSw3OTYzODQ2OTEsLTE1Mz
+eyJoaXN0b3J5IjpbLTQxNTMyMzUxMyw3OTYzODQ2OTEsLTE1Mz
 kyNTA1NDEsMTMwNzM0NDU1NiwtMTQxMTA4MjkyOCwtNTUyNDg1
 NDUzLDM4OTgzNjM1MSwyMDM4ODQ0MjIwLC05NzczMjIyMDMsLT
 E2MzUwNjgwMTcsMjkxNDI3MDcxLDU0MzExNjc1NSwtMzc5NTQz
