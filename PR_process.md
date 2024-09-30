@@ -1,5 +1,4 @@
 
-
 # Collaboration Process
 ## Overview
 ![Git Workflow](https://github.com/andylytical/stackedit/blob/access/ctt-222/Git%20Workflow.png)
@@ -16,11 +15,11 @@
 	1. Commit
 	   * `git status`
 	   * `git add file1 file2`
-	   * `git commit -m "updated file1 & file2`
+	   * `git commit -m "updated file1 & file2"`
 	1. Push
 	   * `git push`
 	1. Test
-	   * Test according to the procedures specific to the project / repo you are working on
+	   * Test according to the procedures specific to the project you are working on
 	1. Repeat EDIT > COMMIT > PUSH > TEST cycle until changes are complete and fully tested
 1. REVIEW
    1. Pull Request
@@ -56,9 +55,10 @@
 # References
 * [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 * [GitHub flow explained](https://scottchacon.com/2011/08/31/github-flow/)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjQ4NTQ1MywzODk4MzYzNTEsMjAzOD
-g0NDIyMCwtOTc3MzIyMjAzLC0xNjM1MDY4MDE3LDI5MTQyNzA3
-MSw1NDMxMTY3NTUsLTM3OTU0MzE5NCwtMjA4ODc0NjYxMiwtMz
-MyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE0MTEwODI5MjgsLTU1MjQ4NTQ1MywzOD
+k4MzYzNTEsMjAzODg0NDIyMCwtOTc3MzIyMjAzLC0xNjM1MDY4
+MDE3LDI5MTQyNzA3MSw1NDMxMTY3NTUsLTM3OTU0MzE5NCwtMj
+A4ODc0NjYxMiwtMzMyNDU1MzYzXX0=
 -->
