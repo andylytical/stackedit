@@ -48,7 +48,7 @@
       * `git pull`
       * `git merge {your/branch/name}`
         * (Note: Repo settings will only allow a fast forward merge)
-   1. Delete the branch
+   1. Delete your branch
       * `git branch -d {your/branch/name}`
       * `git push origin :{your/branch/name}`
 
@@ -56,7 +56,7 @@
 * [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 * [GitHub flow explained](https://scottchacon.com/2011/08/31/github-flow/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjU2OTgzMCwtMTQxMTA4MjkyOCwtNT
+eyJoaXN0b3J5IjpbMTMwNzM0NDU1NiwtMTQxMTA4MjkyOCwtNT
 UyNDg1NDUzLDM4OTgzNjM1MSwyMDM4ODQ0MjIwLC05NzczMjIy
 MDMsLTE2MzUwNjgwMTcsMjkxNDI3MDcxLDU0MzExNjc1NSwtMz
 c5NTQzMTk0LC0yMDg4NzQ2NjEyLC0zMzI0NTUzNjNdfQ==
