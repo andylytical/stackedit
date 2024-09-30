@@ -2,6 +2,7 @@
 # Collaboration Process
 ## Overview
 ![Git Workflow](https://github.com/andylytical/stackedit/blob/access/ctt-222/Git%20Workflow.png)
+## Workflow
 1. Create a branch
     * Naming convention: ticket/username/short-description
 1. Do work, Make changes, Commit often, Test frequently
@@ -26,7 +27,7 @@
 * [GitHub flow explained](https://scottchacon.com/2011/08/31/github-flow/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTUxMjQwNiwtOTc3MzIyMjAzLC0xNj
-M1MDY4MDE3LDI5MTQyNzA3MSw1NDMxMTY3NTUsLTM3OTU0MzE5
-NCwtMjA4ODc0NjYxMiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbNjkxMTQ0Mjc3LC05NzczMjIyMDMsLTE2Mz
+UwNjgwMTcsMjkxNDI3MDcxLDU0MzExNjc1NSwtMzc5NTQzMTk0
+LC0yMDg4NzQ2NjEyLC0zMzI0NTUzNjNdfQ==
 -->
