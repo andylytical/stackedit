@@ -25,11 +25,12 @@
 1. Pull Request
    * Github.com > Project site > Pull requests > New pull request
    * *base: main* :arrow_left: *compare:{your/branch/name}* > Create pull request
-   * Add a title
-   * Add a description
-   * Assignees > assign yourself (you are responsible to merge this once approved)
-   * (optional) Assign Reviewers
-   * Create pull request
+     * If github reports merge conflicts, resolve those before submitting the PR
+     * Add a title (a short summary of the primary change or enhancement)
+     * Add a description (list of the major updates, copy of changelog is fine here)
+     * Assignee (who will merge this to main)
+     * Reviewers (at least one, more is better, who will review and approve this PR)
+     * Create pull request
 1. Review
    * Participate in the review commentary
    * For any issues, repeat the EDIT > COMMIT > PUSH > TEST cycle until all review issues are complete and fully tested
