@@ -1,7 +1,7 @@
 
 # Collaboration Process
 ## Overview
-![Git Workflow](https://github.com/andylytical/stackedit/blob/access/ctt-222/Git%20Workflow.png)
+![Git Workflow](https://github.com/andylytical/stackedit/blob/main/Git%20Workflow.png)
 ## Workflow
 1. Create a branch
     * Naming convention: ticket/username/short-description
